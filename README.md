@@ -8,6 +8,6 @@ I am an astrophysicist who is interested in:
   
 -  ✨ Low surface brightness galaxies
 
-- ⚡ Fun fact: As a dog person, I enjoy petting dogs while getting stuck in my research.
+  ⚡ Fun fact: As a dog person, I enjoy petting dogs while getting stuck in my research.
 
---> 📫  See more at my website <a> le-mn.github.io </a>
+ 📫  See more at my website <a> le-mn.github.io </a>
