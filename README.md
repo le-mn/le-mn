@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 My name is **Minh Ngoc Le** (you can call me ✨ _Ngoc_ ✨).
 
 I am an astrophysicist who is interested in:
