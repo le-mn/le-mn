@@ -10,4 +10,4 @@ I am an astrophysicist who is interested in:
 
   ⚡ Fun fact: As a dog person, I enjoy petting dogs while getting stuck in my research.
 
- 📫  See more at my website <a> le-mn.github.io </a>
+ 📫  See more at my website <a href="https://le-mn.github.io/" target="_blank"></a>
